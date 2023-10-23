@@ -76,18 +76,18 @@ function App(): JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Mafruhah">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
+          <Section title="Antar Laudry MAFRUHAH">
+            Edit <Text style={styles.highlight}>App.tsx</Text> perusahaan antar laudry 
+            mafruhah bisa mengantarkan laudry anda ke tempat halaman yang di tuju.
           </Section>
-          <Section title="See Your Changes">
+          <Section title="ManagemerUser">
             <ReloadInstructions />
           </Section>
-          <Section title="Debug">
+          <Section title="Transaksi">
             <DebugInstructions />
           </Section>
-          <Section title="Learn More">
-            Read the docs to discover what to do next:
+          <Section title="Tipe Pembayaran">
+            Pembayaran Bisa Menggunakan Cast atau Tunai
           </Section>
           <LearnMoreLinks />
         </View>
